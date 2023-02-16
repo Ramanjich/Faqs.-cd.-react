@@ -1,0 +1,23 @@
+/* Write your code here. */
+.app-container {
+  background-color: #f1f5f8;
+
+  padding-top: 40px;
+  font-family: Roboto;
+}
+.faqs-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  align-items: center;
+  margin-left: 100px;
+  margin-bottom: 50px;
+}
+.main-heading {
+  color: #cb8805;
+}
+.list-items {
+  margin-left: 60px;
+  width: 85%;
+}
